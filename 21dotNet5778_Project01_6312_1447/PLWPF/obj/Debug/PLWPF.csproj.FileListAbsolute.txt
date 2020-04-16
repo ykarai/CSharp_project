@@ -1,0 +1,1543 @@
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Daniel\Desktop\New folder (2)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BL.dll.config
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\6dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll.config
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DAL.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\BL.dll.config
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\App.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\BE.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\BL.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\DAL.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\DS.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\BE.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\BL.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\BL.dll.config
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\bin\Debug\DS.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\App.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\App.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Downloads\Telegram Desktop\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll.config
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Daniel\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\Avraham\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\BL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\App.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\סמסטר א\c#\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\סמסטר א\c#\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\סמסטר א\c#\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\BE.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\BL.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\DAL.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\DS.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\BE.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\BL.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\DAL.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\bin\Debug\DS.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\FitDistanceNannysWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\FitNannysWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\NannysSpacialKidsWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveChildWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveContractWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveMotherWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveNannyWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\SpacialKidsWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UserControOfTheWeek.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RunLogo.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\App.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\App.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\FitDistanceNannysWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\FitNannysWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\NannysSpacialKidsWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveChildWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveContractWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveMotherWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RemoveNannyWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\SpacialKidsWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\User Control\PlaceAutoCompleteUC.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\UserControOfTheWeek.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\RunLogo.baml
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\PLWPF\obj\Debug\PLWPF.pdb

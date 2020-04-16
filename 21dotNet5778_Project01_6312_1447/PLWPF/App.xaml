@@ -1,0 +1,68 @@
+﻿<Application x:Class="PLWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PLWPF"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+       
+            <local:VisibilityConverter x:Key="ToVisibilityConverter" />
+            <local:VisibilityConverter2 x:Key="ToVisibilityConverter2" />
+
+        <Style x:Key="MyButtomStyleNanny" TargetType="Control">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <!--<Setter Property="FontFamily" Value="Comic Sans MS"/>-->
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontStyle" Value="Oblique"/>
+            <Setter Property="Background" Value="LightSkyBlue"/>
+            <Setter Property="Foreground" Value="#FF43DF43"/>
+            <Setter Property="BorderBrush" Value="Green"/>
+            <!--<Setter Property="BorderThickness" Value="50"/>-->
+        </Style>
+
+        <Style x:Key="MyButtomStylMother" TargetType="Control">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <!--<Setter Property="FontFamily" Value="Comic Sans MS"/>-->
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontStyle" Value="Oblique"/>
+            <Setter Property="Background" Value="LightSkyBlue"/>
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="BorderBrush" Value="Green"/>
+            <!--<Setter Property="BorderThickness" Value="50"/>-->
+        </Style>
+
+        <Style x:Key="MyButtomStylChild" TargetType="Control">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <!--<Setter Property="FontFamily" Value="Comic Sans MS"/>-->
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontStyle" Value="Oblique"/>
+            <Setter Property="Background" Value="LightSkyBlue"/>
+            <Setter Property="Foreground" Value="GreenYellow"/>
+            <Setter Property="BorderBrush" Value="Green"/>
+            <!--<Setter Property="BorderThickness" Value="50"/>-->
+        </Style>
+
+
+        <Style x:Key="MyButtomStylContract" TargetType="Control">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <!--<Setter Property="FontFamily" Value="Comic Sans MS"/>-->
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="FontStyle" Value="Oblique"/>
+            <Setter Property="Background" Value="LightSkyBlue"/>
+            <Setter Property="Foreground" Value="CadetBlue"/>
+            <Setter Property="BorderBrush" Value="Green"/>
+            <!--<Setter Property="BorderThickness" Value="50"/>-->
+        </Style>
+
+
+
+
+
+
+
+
+    </Application.Resources>
+
+    
+
+
+</Application>

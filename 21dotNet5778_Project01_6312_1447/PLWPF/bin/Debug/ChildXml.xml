@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Child>
+    <id>1</id>
+    <MotherId>0</MotherId>
+    <ChildLastName>aaa</ChildLastName>
+    <ChildFirstName></ChildFirstName>
+    <ChildDate>01/01/0001 00:00:00</ChildDate>
+    <ChildIsSpecial>True</ChildIsSpecial>
+    <ChildSpical>התפתחות איטית</ChildSpical>
+    <friendly>10</friendly>
+    <shy>9</shy>
+    <Calm>8</Calm>
+  </Child>
+  <Child>
+    <id>60000</id>
+    <MotherId>0</MotherId>
+    <ChildLastName>שטראוס</ChildLastName>
+    <ChildFirstName>דניאל</ChildFirstName>
+    <ChildDate>0001-01-01T00:00:00</ChildDate>
+    <ChildIsSpecial>false</ChildIsSpecial>
+    <ChildSpical>ילד רגוע שלא מתפרע :)</ChildSpical>
+    <friendly>10</friendly>
+    <shy>9</shy>
+    <Calm>8</Calm>
+  </Child>
+  <Child>
+    <id>70000</id>
+    <MotherId>0</MotherId>
+    <ChildLastName>כהן</ChildLastName>
+    <ChildFirstName>יוסף</ChildFirstName>
+    <ChildDate>01/01/0001 00:00:00</ChildDate>
+    <ChildIsSpecial>False</ChildIsSpecial>
+    <ChildSpical></ChildSpical>
+    <friendly>3</friendly>
+    <shy>9</shy>
+    <Calm>8</Calm>
+  </Child>
+  <Child>
+    <id>20000003</id>
+    <MotherId>0</MotherId>
+    <ChildLastName>ישראלי</ChildLastName>
+    <ChildFirstName>יגאל</ChildFirstName>
+    <ChildDate>0001-01-01T00:00:00</ChildDate>
+    <ChildIsSpecial>true</ChildIsSpecial>
+    <ChildSpical>רגיש לחלב</ChildSpical>
+    <friendly>10</friendly>
+    <shy>9</shy>
+    <Calm>8</Calm>
+  </Child>
+  <Child>
+    <id>9000000</id>
+    <MotherId>0</MotherId>
+    <ChildLastName>אליה</ChildLastName>
+    <ChildFirstName>ינון</ChildFirstName>
+    <ChildDate>0001-01-01T00:00:00</ChildDate>
+    <ChildIsSpecial>false</ChildIsSpecial>
+    <ChildSpical />
+    <friendly>10</friendly>
+    <shy>9</shy>
+    <Calm>8</Calm>
+  </Child>
+</root>

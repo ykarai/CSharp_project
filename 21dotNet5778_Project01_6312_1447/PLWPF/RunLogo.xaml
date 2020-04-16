@@ -1,0 +1,18 @@
+﻿<Window x:Class="PLWPF.RunLogo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        
+        Title="Runlogo" WindowStyle="None" AllowsTransparency="True" FontSize="80"  FontWeight="Medium" WindowStartupLocation="CenterScreen" Width="335.745" Height="345.782"  Icon="images/start/childrenLogo.png"
+           >
+    <Window.Background>
+        <ImageBrush ImageSource="images/start/childrenLogo.png"/>
+
+    </Window.Background>
+    
+    <TextBlock x:Name="textBlock" Text="Welcom to Nanny For You :)" FontStretch="SemiExpanded" FontWeight="DemiBold"  FontSize="30" HorizontalAlignment="Left" Margin="6,194,-41,0" VerticalAlignment="Top"  TextWrapping="Wrap"  Width="371" Height="148"/>
+   
+</Window>

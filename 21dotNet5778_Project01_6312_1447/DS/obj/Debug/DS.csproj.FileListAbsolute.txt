@@ -1,0 +1,230 @@
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\dotNet5778_Project01_xxxx_1447\DS\obj\Debug\DS.pdb
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Daniel\Desktop\New folder (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Desktop\פרויקט\dotNet5778_Project01_6312_14471\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\שנה ב\c#\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Daniel\Desktop\dotNet5778_Project01_6312_1447 (3)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\dotNet5778_Project01_6312_1447 (2)\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Desktop\homeTraining\2dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\3dotNet5778_Project01_6312_1447 (1) (1)\3dotNet5778_Project01_6312_1447 (1)\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\5dotNet5778_Project01_6312_1447 (1)\4dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (1)\7dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\7dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\8dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\7dotNet5778_Project01_6312_1447 (2)\9dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Daniel\Desktop\New folder\11dotNet5778_Project01_6312_1447\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\11dotNet5778_Project01_6312_1447 (2)\11dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\12dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\Telegram Desktop\13dotNet5778_Project01_6312_1447 (3)\14dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3)\DS\obj\Debug\DS.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\DS.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\DS.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\BE.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\BE.pdb
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.dll
+C:\Users\Avraham\Downloads\15dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\16dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\DS.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\DS.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\BE.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\bin\Debug\BE.pdb
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.dll
+C:\Users\Daniel\Desktop\19dotNet5778_Project01_6312_1447 (3) (1)\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447 (3) (1) (2)\DS\obj\Debug\DS.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\bin\Debug\DS.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\bin\Debug\DS.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\bin\Debug\BE.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\bin\Debug\BE.pdb
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\obj\Debug\DS.dll
+C:\Users\Daniel\Downloads\Telegram Desktop\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\19dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\20dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\bin\Debug\DS.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\bin\Debug\BE.pdb
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.dll
+C:\Users\ykarai\Downloads\Telegram Desktop\21dotNet5778_Project01_6312_1447\DS\obj\Debug\DS.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\bin\Debug\DS.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\bin\Debug\DS.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\bin\Debug\BE.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\bin\Debug\BE.pdb
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\obj\Debug\DS.dll
+C:\Users\yosk7\Downloads\21dotNet5778_Project01_6312_1447 פרוייקט סופי-20180419T125203Z-001\21dotNet5778_Project01_6312_1447 פרוייקט סופי\DS\obj\Debug\DS.pdb

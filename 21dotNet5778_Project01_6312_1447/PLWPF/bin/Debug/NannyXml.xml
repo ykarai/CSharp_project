@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<ArrayOfNanny xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nanny>
+    <NannyId>200000</NannyId>
+    <NannyLastName>כהן</NannyLastName>
+    <NannyFirstName>זלדה ג</NannyFirstName>
+    <NannyDate>0001-01-01T00:00:00</NannyDate>
+    <NannyPhoneNumber>0</NannyPhoneNumber>
+    <NannyAddress>רמת אשכול, ירושלים</NannyAddress>
+    <NannyHaveElevator>true</NannyHaveElevator>
+    <NannyFloor>3</NannyFloor>
+    <NannyYearsExperience>0</NannyYearsExperience>
+    <NannyMaxKidslimit>3</NannyMaxKidslimit>
+    <NannyMinKidsAge>0001-01-01T00:00:00</NannyMinKidsAge>
+    <NannyMaxKidsAge>0001-01-01T00:00:00</NannyMaxKidsAge>
+    <NannyIsHourlysalary>true</NannyIsHourlysalary>
+    <NannyTariffForHour>0</NannyTariffForHour>
+    <NannyTariffForMonth>0</NannyTariffForMonth>
+    <NannyDaysOfWorkstring>6,True,False,False,False,True,False</NannyDaysOfWorkstring>
+    <NannyTableOfWorkstring>2,6,7,0,0,0,0,0,12,0,0,0,0,0</NannyTableOfWorkstring>
+    <NannyHolidaysTamat>true</NannyHolidaysTamat>
+    <NannyRecommendations>מאוד נחמדה</NannyRecommendations>
+    <NannySpecialKids>true</NannySpecialKids>
+    <Nice>6</Nice>
+    <ImageSource>images\start\nanny.jpg</ImageSource>
+  </Nanny>
+  <Nanny>
+    <NannyId>300000</NannyId>
+    <NannyLastName>ישראלי</NannyLastName>
+    <NannyFirstName>זלדה ד</NannyFirstName>
+    <NannyDate>0001-01-01T00:00:00</NannyDate>
+    <NannyPhoneNumber>0</NannyPhoneNumber>
+    <NannyAddress>קטמון, ירושלים, ישראל</NannyAddress>
+    <NannyHaveElevator>false</NannyHaveElevator>
+    <NannyFloor>0</NannyFloor>
+    <NannyYearsExperience>0</NannyYearsExperience>
+    <NannyMaxKidslimit>3</NannyMaxKidslimit>
+    <NannyMinKidsAge>0001-01-01T00:00:00</NannyMinKidsAge>
+    <NannyMaxKidsAge>0001-01-01T00:00:00</NannyMaxKidsAge>
+    <NannyIsHourlysalary>false</NannyIsHourlysalary>
+    <NannyTariffForHour>0</NannyTariffForHour>
+    <NannyTariffForMonth>0</NannyTariffForMonth>
+    <NannyDaysOfWorkstring>6,False,True,False,True,False,False</NannyDaysOfWorkstring>
+    <NannyTableOfWorkstring>2,6,0,6,0,7,0,0,0,11,0,12,0,0</NannyTableOfWorkstring>
+    <NannyHolidaysTamat>false</NannyHolidaysTamat>
+    <NannyRecommendations>מאוד רגועה</NannyRecommendations>
+    <NannySpecialKids>false</NannySpecialKids>
+    <Nice>8</Nice>
+    <ImageSource>images\start\nanny.jpg</ImageSource>
+  </Nanny>
+  <Nanny>
+    <NannyId>0</NannyId>
+    <NannyDate>0001-01-01T00:00:00</NannyDate>
+    <NannyPhoneNumber>0</NannyPhoneNumber>
+    <NannyHaveElevator>false</NannyHaveElevator>
+    <NannyFloor>0</NannyFloor>
+    <NannyYearsExperience>0</NannyYearsExperience>
+    <NannyMaxKidslimit>3</NannyMaxKidslimit>
+    <NannyMinKidsAge>0001-01-01T00:00:00</NannyMinKidsAge>
+    <NannyMaxKidsAge>0001-01-01T00:00:00</NannyMaxKidsAge>
+    <NannyIsHourlysalary>false</NannyIsHourlysalary>
+    <NannyTariffForHour>0</NannyTariffForHour>
+    <NannyTariffForMonth>0</NannyTariffForMonth>
+    <NannyDaysOfWorkstring>6,False,False,False,False,False,False</NannyDaysOfWorkstring>
+    <NannyTableOfWorkstring>2,6,0,0,0,0,0,0,0,0,0,0,0,0</NannyTableOfWorkstring>
+    <NannyHolidaysTamat>false</NannyHolidaysTamat>
+    <NannySpecialKids>false</NannySpecialKids>
+    <Nice>0</Nice>
+    <ImageSource>images\start\nanny.jpg</ImageSource>
+  </Nanny>
+  <Nanny>
+    <NannyId>400000</NannyId>
+    <NannyLastName>שרון</NannyLastName>
+    <NannyFirstName>יהודית</NannyFirstName>
+    <NannyDate>0001-01-01T00:00:00</NannyDate>
+    <NannyPhoneNumber>0</NannyPhoneNumber>
+    <NannyAddress>מעפילי אגוז, תל אביב יפו, ישראל</NannyAddress>
+    <NannyHaveElevator>false</NannyHaveElevator>
+    <NannyFloor>2</NannyFloor>
+    <NannyYearsExperience>0</NannyYearsExperience>
+    <NannyMaxKidslimit>3</NannyMaxKidslimit>
+    <NannyMinKidsAge>0001-01-01T00:00:00</NannyMinKidsAge>
+    <NannyMaxKidsAge>0001-01-01T00:00:00</NannyMaxKidsAge>
+    <NannyIsHourlysalary>false</NannyIsHourlysalary>
+    <NannyTariffForHour>0</NannyTariffForHour>
+    <NannyTariffForMonth>0</NannyTariffForMonth>
+    <NannyDaysOfWorkstring>6,False,False,False,False,True,True</NannyDaysOfWorkstring>
+    <NannyTableOfWorkstring>2,6,0,0,0,0,0,12,0,0,0,0,0,15</NannyTableOfWorkstring>
+    <NannyHolidaysTamat>false</NannyHolidaysTamat>
+    <NannySpecialKids>false</NannySpecialKids>
+    <Nice>2</Nice>
+    <ImageSource>images\start\nanny.jpg</ImageSource>
+  </Nanny>
+</ArrayOfNanny>

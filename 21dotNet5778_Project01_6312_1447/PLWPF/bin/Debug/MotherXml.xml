@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<ArrayOfMother xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mother>
+    <MotherId>20000000</MotherId>
+    <MotherLastName>Shtetman</MotherLastName>
+    <MotherFirstName>aaaaabb</MotherFirstName>
+    <MotherPhoneNumber>54567456</MotherPhoneNumber>
+    <MotherAddress>Israel,Jerusalem,Shakhal,29</MotherAddress>
+    <MotherAroundAddress>Israel,Jerusalem</MotherAroundAddress>
+    <MotherDaysOfWorkstring>6,False,False,False,True,False,True</MotherDaysOfWorkstring>
+    <MotherTableOfWorkstring>2,6,9,11,1,1,1,11,3,3,4,4,4,5</MotherTableOfWorkstring>
+    <MotherRemarks />
+    <kilometerAround>2</kilometerAround>
+    <MotherDate>1996-04-09T00:00:00</MotherDate>
+    <MotherHaveElevator>false</MotherHaveElevator>
+    <MotherKidsAverage>9</MotherKidsAverage>
+    <MotherMinKidsAge>0</MotherMinKidsAge>
+    <MotherMaxKidsAge>0</MotherMaxKidsAge>
+    <MotherIsHourlysalary>false</MotherIsHourlysalary>
+    <MotherTariffForHour>0</MotherTariffForHour>
+    <MotherTariffForMonth>0</MotherTariffForMonth>
+    <MotherHolidaysTamat>false</MotherHolidaysTamat>
+    <ImageSource>images\start\mother.jpg</ImageSource>
+  </Mother>
+  <Mother>
+    <MotherId>444</MotherId>
+    <MotherFirstName>שלומית ב</MotherFirstName>
+    <MotherPhoneNumber>0</MotherPhoneNumber>
+    <MotherAddress>רמת אשכול, ירושלים</MotherAddress>
+    <MotherAroundAddress>רמת אשכול, ירושלים</MotherAroundAddress>
+    <MotherDaysOfWorkstring>6,True,False,False,True,False,False</MotherDaysOfWorkstring>
+    <MotherTableOfWorkstring>2,6,10,0,0,12,0,0,11,0,0,14,0,0</MotherTableOfWorkstring>
+    <MotherRemarks>ילד רגיש </MotherRemarks>
+    <kilometerAround>2</kilometerAround>
+    <MotherDate>0001-01-01T00:00:00</MotherDate>
+    <MotherHaveElevator>false</MotherHaveElevator>
+    <MotherKidsAverage>0</MotherKidsAverage>
+    <MotherMinKidsAge>0</MotherMinKidsAge>
+    <MotherMaxKidsAge>0</MotherMaxKidsAge>
+    <MotherIsHourlysalary>false</MotherIsHourlysalary>
+    <MotherTariffForHour>0</MotherTariffForHour>
+    <MotherTariffForMonth>0</MotherTariffForMonth>
+    <MotherHolidaysTamat>false</MotherHolidaysTamat>
+    <ImageSource>images\start\mother.jpg</ImageSource>
+  </Mother>
+  <Mother>
+    <MotherId>90000</MotherId>
+    <MotherLastName>ישראלי</MotherLastName>
+    <MotherFirstName>שלומית</MotherFirstName>
+    <MotherPhoneNumber>25813665</MotherPhoneNumber>
+    <MotherAddress>רמת אשכול, ירושלים</MotherAddress>
+    <MotherAroundAddress>רמת אשכול, ירושלים</MotherAroundAddress>
+    <MotherDaysOfWorkstring>6,True,True,True,False,False,False</MotherDaysOfWorkstring>
+    <MotherTableOfWorkstring>2,6,10,9,3,0,3,0,11,10,10,0,10,0</MotherTableOfWorkstring>
+    <kilometerAround>10</kilometerAround>
+    <MotherDate>0001-01-01T00:00:00</MotherDate>
+    <MotherHaveElevator>true</MotherHaveElevator>
+    <MotherKidsAverage>0</MotherKidsAverage>
+    <MotherMinKidsAge>0</MotherMinKidsAge>
+    <MotherMaxKidsAge>0</MotherMaxKidsAge>
+    <MotherIsHourlysalary>false</MotherIsHourlysalary>
+    <MotherTariffForHour>35</MotherTariffForHour>
+    <MotherTariffForMonth>0</MotherTariffForMonth>
+    <MotherHolidaysTamat>true</MotherHolidaysTamat>
+    <ImageSource>images\start\mother.jpg</ImageSource>
+  </Mother>
+  <Mother>
+    <MotherId>800000</MotherId>
+    <MotherLastName>יעקובי</MotherLastName>
+    <MotherFirstName>שלומית</MotherFirstName>
+    <MotherPhoneNumber>978989899</MotherPhoneNumber>
+    <MotherAddress>נווה צדק, תל אביב יפו, ישראל</MotherAddress>
+    <MotherAroundAddress>נווה צדק, תל אביב יפו, ישראל</MotherAroundAddress>
+    <MotherDaysOfWorkstring>6,False,False,False,False,True,True</MotherDaysOfWorkstring>
+    <MotherTableOfWorkstring>2,6,0,0,0,0,0,14,0,0,0,0,0,15</MotherTableOfWorkstring>
+    <MotherRemarks> ילד נחמד מאוד</MotherRemarks>
+    <kilometerAround>5</kilometerAround>
+    <MotherDate>0001-01-01T00:00:00</MotherDate>
+    <MotherHaveElevator>false</MotherHaveElevator>
+    <MotherKidsAverage>0</MotherKidsAverage>
+    <MotherMinKidsAge>90</MotherMinKidsAge>
+    <MotherMaxKidsAge>7</MotherMaxKidsAge>
+    <MotherIsHourlysalary>false</MotherIsHourlysalary>
+    <MotherTariffForHour>52</MotherTariffForHour>
+    <MotherTariffForMonth>50000</MotherTariffForMonth>
+    <MotherHolidaysTamat>false</MotherHolidaysTamat>
+    <ImageSource>images\start\mother.jpg</ImageSource>
+  </Mother>
+</ArrayOfMother>

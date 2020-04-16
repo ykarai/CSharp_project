@@ -1,0 +1,135 @@
+﻿<Window x:Class="PLWPF.AddMotherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:googlemapwpfapp="clr-namespace:GoogleMapWpfApp"
+        mc:Ignorable="d"
+        Title="AddMotherWindow" Height="800" Width="670" Background="#FF62C4FB" >
+    <Window.Resources>
+        <local:ImageConverter x:Key="ImageConverter"/>
+    </Window.Resources>
+
+    <!--<Window.Resources>
+        <CollectionViewSource x:Key="childViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Child}, CreateList=True}"/>
+    </Window.Resources>-->
+    <!--<Window.Resources>
+        <CollectionViewSource x:Key="childViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Child}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource childViewSource}"/>-->
+    <Grid x:Name="grid0" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="290*"/>
+            <ColumnDefinition Width="118*"/>
+            <ColumnDefinition Width="255*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="697*"/>
+            <RowDefinition Height="74*"/>
+        </Grid.RowDefinitions>
+        <!--<Grid x:Name="grid1" DataContext="{StaticResource childViewSource}"  >-->
+        <Grid x:Name="grid1" Margin="0,0,0,67.333" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="115*"/>
+                <ColumnDefinition Width="271*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <!--<RowDefinition Height="Auto"/>-->
+            </Grid.RowDefinitions>
+            <Label Content="kilometer Around:" Grid.Column="0" HorizontalAlignment="Left" Margin="0,10,0,33" Grid.Row="0" VerticalAlignment="Center" Grid.RowSpan="2"/>
+            <TextBox x:Name="kilometerAroundTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="0" Text="{Binding kilometerAround, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Address:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="1" VerticalAlignment="Center"/>
+            <googlemapwpfapp:PlaceAutoCompleteUC x:Name="motherAddressTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="1" Text="{Binding MotherAddress, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120" />
+            <Label Content="Mother Around Address:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="2" VerticalAlignment="Center"/>
+            <googlemapwpfapp:PlaceAutoCompleteUC x:Name="motherAroundAddressTextBox" Grid.Column="1"   HorizontalAlignment="Left" Height="24" Margin="5,6.6,0,4.6" Grid.Row="2" Text="{Binding MotherAroundAddress, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120" Grid.ColumnSpan="2"/>
+            <Label Content="Mother Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="3" VerticalAlignment="Center"/>
+            <DatePicker x:Name="motherDateDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="4.667,4,0,4" Grid.Row="3" SelectedDate="{Binding MotherDate, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center"/>
+            <Label Content="Mother First Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="4" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherFirstNameTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="4" Text="{Binding MotherFirstName, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120" SelectionChanged="ChecksforDigits" />
+            <Label Content="Mother Have Elevator:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="5" VerticalAlignment="Center"/>
+            <CheckBox x:Name="motherHaveElevatorCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding MotherHaveElevator, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" Margin="4.667,9,0,9" Grid.Row="5" VerticalAlignment="Center"/>
+            <Label Content="Mother Holidays Tamat:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="6" VerticalAlignment="Center"/>
+            <CheckBox x:Name="motherHolidaysTamatCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding MotherHolidaysTamat, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" Margin="4.667,9,0,9" Grid.Row="6" VerticalAlignment="Center"/>
+            <Label Content="Mother Id:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="7" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherIdTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="7" Text="{Binding MotherId, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Is Hourlysalary:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="8" VerticalAlignment="Center"/>
+            <CheckBox x:Name="motherIsHourlysalaryCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding MotherIsHourlysalary, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" Margin="4.667,9,0,9" Grid.Row="8" VerticalAlignment="Center"/>
+            <Label Content="Mother Kids Average:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="9" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherKidsAverageTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="9" Text="{Binding MotherKidsAverage, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Last Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="10" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherLastNameTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="10" Text="{Binding MotherLastName, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120" SelectionChanged="ChecksforDigits"/>
+            <Label Content="Mother Max Kids Age:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="11" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherMaxKidsAgeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="11" Text="{Binding MotherMaxKidsAge, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Min Kids Age:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="13" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherMinKidsAgeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="13" Text="{Binding MotherMinKidsAge, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Phone Number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="14" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherPhoneNumberTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="14" Text="{Binding MotherPhoneNumber, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Remarks:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="15" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherRemarksTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="15" Text="{Binding MotherRemarks, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Tariff For Hour:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="16" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherTariffForHourTextBox" Grid.Column="1" Validation.Error="validation_Error" IsReadOnlyCaretVisible="False" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="16" Text="{Binding MotherTariffForHour, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Mother Tariff For Month:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="17" VerticalAlignment="Center"/>
+            <TextBox x:Name="motherTariffForMonthTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="4.667,4,0,4" Grid.Row="17" Text="{Binding MotherTariffForMonth, Mode=TwoWay,  ValidatesOnDataErrors=True, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=PropertyChanged }" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+
+
+
+        <TextBlock x:Name="textBlock" Grid.Column="2" HorizontalAlignment="Left" Margin="27,18,0,0" TextWrapping="Wrap" Text="Click on the image to change it" VerticalAlignment="Top" Height="52" Width="88"/>
+
+
+
+        <!--<Image x:Name="IndicationImage11"  Height="12" Margin="13,16,66,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding ElementName=kilometerAroundTextBox,UpdateSourceTrigger=PropertyChanged, Path=IsReadOnlyCaretVisible ,Converter={StaticResource ToVisibilityConverter}}" />-->
+        <Image x:Name="IndicationImage12"  Height="24" Margin="10,16,55,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/vvvv.jpg" Visibility="{Binding ElementName=kilometerAroundTextBox,UpdateSourceTrigger=PropertyChanged, Path=IsReadOnlyCaretVisible ,Converter={StaticResource ToVisibilityConverter2}}" RenderTransformOrigin="-0.659,-1.148" />
+
+
+
+        <!--<Image x:Name="image1" Grid.Column="1" Source="{Binding ImageSource, Mode=TwoWay}"  HorizontalAlignment="Left" Height="124" Margin="33.333,81,0,0" VerticalAlignment="Top" Width="39"/>-->
+        <Image x:Name="MotherImage" Source="{Binding ImageSource, Mode=TwoWay, Converter={StaticResource ImageConverter }}" Stretch="Fill"  HorizontalAlignment="Left" Height="100" Margin="122,9,0,0" VerticalAlignment="Top" Width="103" Grid.Column="2"  MouseLeftButtonDown="ImageMouseClick_Bottun"/>
+        <Button x:Name="AddMotherbutton" Style="{StaticResource MyButtomStylMother}" Content="Add Mother" HorizontalAlignment="Left" Margin="24,4.667,0,0" VerticalAlignment="Top" Width="495" Grid.Row="1" Grid.ColumnSpan="3" Height="43" Click="AddMotherbutton_Click_1"/>
+        <Image x:Name="IndicationImage12_Copy1"  Height="24" Margin="9,142,56,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/vvvv.jpg" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter2}, ElementName=motherFirstNameTextBox, UpdateSourceTrigger=PropertyChanged}" RenderTransformOrigin="-0.659,-1.148" />
+        <Image x:Name="IndicationImage12_Copy2"  Height="24" Margin="8,252,57,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/vvvv.jpg" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter2}, ElementName=motherIdTextBox, UpdateSourceTrigger=PropertyChanged}" RenderTransformOrigin="-0.659,-1.148" />
+        <Image x:Name="IndicationImage12_Copy3"  Height="24" Margin="5,352,60,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/vvvv.jpg" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter2}, ElementName=motherLastNameTextBox, UpdateSourceTrigger=PropertyChanged}" RenderTransformOrigin="-0.659,-1.148" />
+        <Image x:Name="IndicationImage12_Copy4"  Height="24" Margin="3,459,62,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/vvvv.jpg" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter2}, ElementName=motherPhoneNumberTextBox, UpdateSourceTrigger=PropertyChanged}" RenderTransformOrigin="-0.659,-1.148" />
+        <Image x:Name="IndicationImage12_Copy8"  Height="24" Margin="2,522,63,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/vvvv.jpg" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter2}, ElementName=motherTariffForHourTextBox, UpdateSourceTrigger=PropertyChanged}" RenderTransformOrigin="-0.659,-1.148" />
+        <Image x:Name="IndicationImage11_Copy1"  Height="12" Margin="31,524,48,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=motherTariffForHourTextBox, UpdateSourceTrigger=PropertyChanged}" />
+        <Image x:Name="IndicationImage11_Copy2"  Height="12" Margin="52,21,27,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=kilometerAroundTextBox, UpdateSourceTrigger=PropertyChanged}" />
+        <Image x:Name="IndicationImage11_Copy4"  Height="12" Margin="26,452,53,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=motherPhoneNumberTextBox, UpdateSourceTrigger=PropertyChanged}" />
+        <Image x:Name="IndicationImage11_Copy6"  Height="12" Margin="31,355,48,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=motherLastNameTextBox, UpdateSourceTrigger=PropertyChanged}" />
+        <Image x:Name="IndicationImage11_Copy7"  Height="12" Margin="27,249,52,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=motherIdTextBox, UpdateSourceTrigger=PropertyChanged}" />
+        <!--<Image x:Name="IndicationImage11_Copy8"  Height="12" Margin="23,146,56,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=motherFirstNameTextBox, UpdateSourceTrigger=PropertyChanged}" />-->
+        <Image x:Name="IndicationImage11_Copy10"  Height="12" Margin="47,155,32,0" VerticalAlignment="Top" Grid.Column="1" Source="images/start/x.png" Visibility="{Binding IsReadOnlyCaretVisible, Converter={StaticResource ToVisibilityConverter}, ElementName=motherFirstNameTextBox, UpdateSourceTrigger=PropertyChanged}" />
+        <local:UserControOfTheWeek x:Name="UserControOfTheWeek" Grid.Column="1" HorizontalAlignment="Left" Margin="91,115,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="450" Width="276"/>
+        <!--<Image x:Name="studentImage" Grid.Column="1"
+              Source="{Binding ImageSource, Mode=TwoWay, Converter={StaticResource ImageConverter}}"
+               MinHeight="100" MinWidth="100" Stretch="Fill">
+          
+        </Image>-->
+
+
+    </Grid>
+</Window>
+
+
+
+<!--AIzaSyAzXFxIO-mWht_-jsJDyZjeTIaPi-5UvvE-->

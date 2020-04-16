@@ -1,0 +1,323 @@
+﻿<Window x:Class="PLWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1200"  Background="#FF62C4FB">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="669*"/>
+            <!--<ColumnDefinition/>-->
+            <ColumnDefinition Width="124*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" MinHeight="70"/>
+            <RowDefinition Height="auto" MinHeight="128"/>
+            <RowDefinition Height="auto" MinHeight="64.8"/>
+            <RowDefinition Height="auto" MinHeight="67.2"/>
+            <RowDefinition Height="auto" MinHeight="118.4"/>
+            <RowDefinition Height="109*"/>
+            <RowDefinition Height="102*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="0*"/>
+
+            <!--<RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>-->
+        </Grid.RowDefinitions>
+
+
+
+
+
+
+
+        <!--<DockPanel Grid.Row="0" LastChildFill="True" Margin="5,5,5.333,5">-->
+        <Expander Header="Nanny" FontSize="30" FontFamily="Book Antiqua" Margin="0,65.6,0.6,3.4"  Grid.Row="1" >
+            <Expander.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF007CFF" Offset="0.004"/>
+                    <GradientStop Color="#FF23AFD4" Offset="1"/>
+                    <GradientStop Color="#FFA69C9C" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Expander.Background>
+
+            <StackPanel Orientation="Horizontal" >
+
+                <Button x:Name="addNanny" Content="Add Nanny" Style="{StaticResource MyButtomStyleNanny}" 
+        Margin="10" FontSize="30" Grid.Row="0" Click="AddNanny_Click" Grid.Column="0" />
+
+                <Button x:Name="removeNanny" Content="Remove Nanny"  Style="{StaticResource MyButtomStyleNanny}"
+        Margin="10" FontSize="30" Grid.Row="0" Click="RemoveNanny_Click" Grid.Column="1"/>
+
+                <Button x:Name="updateNanny" Content="Update Nanny"  Style="{StaticResource MyButtomStyleNanny}"
+        Margin="10" FontSize="30" Grid.Row="0" Click="UpdateNanny_Click" Grid.Column="2" />
+
+            </StackPanel>
+
+        </Expander>
+
+
+        <Expander Header="Child" FontSize="30" FontFamily="Book Antiqua" Grid.Row="2"  Margin="0,4.6,0.6,6.2">
+            <Expander.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF007CFF" Offset="0.004"/>
+                    <GradientStop Color="#FF23AFD4" Offset="1"/>
+                    <GradientStop Color="#FFA69C9C" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Expander.Background>
+
+            <StackPanel Orientation="Horizontal">
+
+                <Button x:Name="addChild" Content="Add Child" Style="{StaticResource MyButtomStylChild}"   
+        Margin="10" FontSize="30" Grid.Row="1" Click="AddChild_Click" Grid.Column="0"/>
+
+                <Button x:Name="removeChild" Content="Remove Child" Style="{StaticResource MyButtomStylChild}" 
+        Margin="10" FontSize="30" Grid.Row="1" Click="RemoveChild_Click" Grid.Column="1"/>
+
+                <Button x:Name="updateChild" Content="Update Child"  Style="{StaticResource MyButtomStylChild}"
+        Margin="10" FontSize="30" Grid.Row="1" Click="UpdateChild_Click" Grid.Column="2"/>
+
+            </StackPanel>
+
+        </Expander>
+
+        <Expander Header="Mother" FontSize="30" FontFamily="Book Antiqua" Grid.Row="3"  Margin="0,5.8,0.6,6.4">
+            <Expander.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF007CFF" Offset="0.004"/>
+                    <GradientStop Color="#FF23AFD4" Offset="1"/>
+                    <GradientStop Color="#FFA69C9C" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Expander.Background>
+
+            <StackPanel Orientation="Horizontal">
+
+                <!--<Button x:Name="Mother" Content="Add Remove Update Mother"  
+      Margin="10" FontSize="30" Grid.Row="2" Click="Mother_Click"/>-->
+
+
+                <Button x:Name="addMother" Content="Add Mother" Style="{StaticResource MyButtomStylMother}" 
+        Margin="10" FontSize="30" Grid.Row="2" Click="AddMother_Click" Grid.Column="0"/>
+
+                <Button x:Name="removeMother" Content="Remove Mother" Style="{StaticResource MyButtomStylMother}" 
+        Margin="10" FontSize="30" Grid.Row="2" Click="RemoveMother_Click" Grid.Column="1"/>
+
+                <Button x:Name="updateMother" Content="Update Mother"  Style="{StaticResource MyButtomStylMother}"
+        Margin="10" FontSize="30" Grid.Row="2" Click="UpdateMother_Click" Grid.Column="2"/>
+
+
+            </StackPanel>
+
+        </Expander>
+
+
+
+        <Expander Header="Contract" FontSize="30" FontFamily="Book Antiqua" Grid.Row="4"  Margin="1,9.6,1.6,55" >
+            <Expander.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF007CFF" Offset="0.004"/>
+                    <GradientStop Color="#FF23AFD4" Offset="1"/>
+                    <GradientStop Color="#FFA69C9C" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Expander.Background>
+
+            <StackPanel Orientation="Horizontal">
+
+                <!--<Button x:Name="Mother" Content="Add Remove Update Mother"  
+      Margin="10" FontSize="30" Grid.Row="2" Click="Mother_Click"/>-->
+
+                <Button x:Name="addContract" Content="Add Contract"  Style="{StaticResource MyButtomStylContract}"
+        Margin="10" FontSize="30" Grid.Row="3" Click="AddContract_Click" Grid.Column="0"/>
+
+                <Button x:Name="removeContract" Content="Remove Contract"  Style="{StaticResource MyButtomStylContract}"
+        Margin="10" FontSize="30" Grid.Row="3" Click="RemoveContract_Click" Grid.Column="1"/>
+
+                <Button x:Name="updateContract" Content="Update Contract"  Style="{StaticResource MyButtomStylContract}"
+        Margin="10" FontSize="30" Grid.Row="3" Click="UpdateContract_Click" Grid.Column="2"/>
+
+
+
+
+            </StackPanel>
+
+        </Expander>
+
+
+
+        <Button Grid.Column="0" Click="FitNannysByTime_Click" Content="Fit Nannies by Time"  FontSize="20" FontWeight="ExtraBold"  Margin="10,0.2,180.2,9.6" RenderTransformOrigin="-0.16,0.51" Grid.Row="5" Cursor="Hand">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Stroke="Green" Grid.Row="0"  Grid.Column="0" Margin="0,0,359.333,0"
+                         StrokeThickness="7">
+                            <Ellipse.BitmapEffect>
+                                <DropShadowBitmapEffect Color="#FFB6A8A8" Direction="100"
+                    ShadowDepth="10" Softness="5" Opacity="100" />
+                            </Ellipse.BitmapEffect>
+                            <Ellipse.Fill>
+
+                                <ImageBrush ImageSource="images/start/children.png"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center" 
+                                  VerticalAlignment="Stretch" Margin="22,53,344,-53" Width="214"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+        <Button Grid.Column="0" Click="SpacialKids_Click" Content="Spacial Kids" FontSize="20" FontWeight="ExtraBold"  Margin="472,0.2,-98.4,9.6" RenderTransformOrigin="-0.16,0.51" Grid.Row="5" Cursor="Hand" Grid.ColumnSpan="2">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Stroke="Goldenrod" Grid.Row="0"  Grid.Column="0" Margin="0,0,359.333,0"
+                         StrokeThickness="7">
+                            <Ellipse.BitmapEffect>
+                                <DropShadowBitmapEffect Color="#FFB6A8A8" Direction="100"
+                    ShadowDepth="10" Softness="5" Opacity="100" />
+                            </Ellipse.BitmapEffect>
+                            <Ellipse.Fill>
+
+                                <ImageBrush ImageSource="images/start/children.png"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center" 
+                                  VerticalAlignment="Stretch" Margin="22,53,344,-53" Width="214"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Grid.Column="0" Click="NannysSpacialKids_Click" Content="Nannys For Spacial"  FontSize="20" FontWeight="ExtraBold"  Margin="98,16.4,92.2,-6.6" RenderTransformOrigin="-0.16,0.51" Grid.Row="6" Cursor="Hand" Grid.RowSpan="3">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.612"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Ellipse Stroke="BlueViolet" Grid.Row="0"  Grid.Column="0" Margin="0,0,359.333,0"
+                            StrokeThickness="7">
+                            <Ellipse.BitmapEffect>
+                                <DropShadowBitmapEffect Color="#FFB6A8A8" Direction="100"
+                                    ShadowDepth="10" Softness="5" Opacity="100" />
+                            </Ellipse.BitmapEffect>
+                            <Ellipse.Fill>
+
+                                <ImageBrush ImageSource="images/start/children.png"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center" 
+                            VerticalAlignment="Stretch" Margin="22,53,344,-53" Width="214"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Grid.Column="0" Click="FitDistanceNannys_Click" Content="Fit Nannies by Distance"  FontSize="18" FontWeight="ExtraBold"  Margin="551,5.4,-153.4,6.4" RenderTransformOrigin="-0.16,0.51" Grid.Row="6" Cursor="Hand" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.091"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Ellipse Stroke="GreenYellow" Grid.Row="0"  Grid.Column="0" Margin="0,0,359.333,0"
+                            StrokeThickness="7">
+                            <Ellipse.BitmapEffect>
+                                <DropShadowBitmapEffect Color="#FFB6A8A8" Direction="100"
+                                    ShadowDepth="10" Softness="5" Opacity="100" />
+                            </Ellipse.BitmapEffect>
+                            <Ellipse.Fill>
+
+                                <ImageBrush ImageSource="images/start/children.png"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center" 
+                            VerticalAlignment="Stretch" Margin="22,53,344,-53" Width="214"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label x:Name="label" FontWeight="ExtraBold" Content="WELCOM TO NANNY FOR YOU!" FontSize="30" FontStyle="Oblique"  FontFamily="z" HorizontalAlignment="Left" Margin="216,11,0,0" VerticalAlignment="Top" Width="468" Height="72" Grid.RowSpan="2" ToolTip="נוצר בסייעתא דשמיא על ידי דניאל ויוסף תשעח"/>
+        <TextBlock x:Name="textBlock" FontWeight="ExtraBold"  Grid.Column="1" HorizontalAlignment="Center" Margin="19.4,9,45.6,0"  FontSize="4.5" Foreground="White" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="652" Grid.RowSpan="8" Width="59">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Blue" Offset="0"/>
+                    <GradientStop Color="BlueViolet" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="textBlock_Copy" FontWeight="ExtraBold"  Grid.Column="1" HorizontalAlignment="Center" Margin="85.4,9,-20.4,0"  FontSize="4.5" Foreground="White" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="652" Grid.RowSpan="8" Width="59">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="BlueViolet" Offset="0"/>
+                    <GradientStop Color="Blue" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="916,11,0,0" FontSize="20" FontWeight="ExtraBold" TextWrapping="Wrap" Text="בסד" VerticalAlignment="Top" Width="81" Height="59"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--</DockPanel>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
+
+<!--void AddChild(Child child);
+        Child GetChild(int childId);
+        bool RemoveChild(int id);
+//      void RemoveChild(int id);
+        void UpdateChild(Child child);
+        IEnumerable
+        <Child>GetChildIEnumerable(Func
+            <Child, bool>predicat = null);
+
+
+        void AddContract(Contract contract);
+        Contract GetContract(int ContractId);
+        bool RemoveContract(int id);
+//      void RemoveContract(int id);
+        void UpdateContract(Contract contract);-->
+    

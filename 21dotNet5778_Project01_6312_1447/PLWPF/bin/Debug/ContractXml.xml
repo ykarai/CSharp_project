@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfContract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contract>
+    <ContractId>1000</ContractId>
+    <NannyId>60000000</NannyId>
+    <ChildId>60000</ChildId>
+    <Meet>false</Meet>
+    <ContractSigned>true</ContractSigned>
+    <ContractTariffForHour>29</ContractTariffForHour>
+    <ContractTariffForMonth>0</ContractTariffForMonth>
+    <ContractIsHourlysalary>true</ContractIsHourlysalary>
+    <ContractStartDate>0001-01-01T00:00:00</ContractStartDate>
+    <ContractEndDate>0001-01-01T00:00:00</ContractEndDate>
+    <ContractFinelSalary>116</ContractFinelSalary>
+    <MotherId>0</MotherId>
+    <ImageSource>images\start\contract.jpg</ImageSource>
+  </Contract>
+  <Contract>
+    <ContractId>1001</ContractId>
+    <NannyId>300000</NannyId>
+    <ChildId>70000</ChildId>
+    <Meet>false</Meet>
+    <ContractSigned>false</ContractSigned>
+    <ContractTariffForHour>29</ContractTariffForHour>
+    <ContractTariffForMonth>0</ContractTariffForMonth>
+    <ContractIsHourlysalary>true</ContractIsHourlysalary>
+    <ContractStartDate>0001-01-01T00:00:00</ContractStartDate>
+    <ContractEndDate>0001-01-01T00:00:00</ContractEndDate>
+    <ContractFinelSalary>116</ContractFinelSalary>
+    <MotherId>0</MotherId>
+    <ImageSource>images\start\contract.jpg</ImageSource>
+  </Contract>
+</ArrayOfContract>
